@@ -1,8 +1,6 @@
-### Oie 👋
+### Oie 😊
 
-Estou sempre aberta pra conversar 😊
-
-Você pode me encontrar na [minha página pessoal](https://www.juunegreiros.dev) ou nos seguintes lugares:
+Você pode me encontrar na [minha página pessoal](https://www.juunegreiros.me) ou nos seguintes lugares:
 
 <div>
 <a href="https://twitter.com/juunegreiros" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
